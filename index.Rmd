@@ -1,0 +1,641 @@
+---
+title: "Thoracic Case Conference"
+subtitle: ""
+session: ""
+author: "Howard Mann, M.D."
+institute: "University of Utah | Department of Radiology and Imaging Sciences"
+date: "February 22nd, 2022"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: 
+        - myextra.css
+        - xaringan-themer.css
+        - hygge
+        - ninjutsu
+        - width.css
+    yolo: false
+    lib_dir: libs
+    self_contained: false
+    nature:
+      titleSlideClass: [center, middle]
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>
+      ratio: "16:9"
+      beforeInit: "macros.js"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      navigation:
+        scroll: false
+      
+---
+
+```{r setup, include = FALSE}
+options(htmltools.dir.version = FALSE)
+library(knitr)
+library(metathis)
+library(xaringanExtra)
+library(showtext)
+library(kableExtra)
+library(icons)
+opts_chunk$set(echo=FALSE)
+
+# set engines
+knitr::knit_engines$set("markdown")
+
+xaringanExtra::use_panelset()
+# xaringanExtra::use_share_again()
+xaringanExtra::use_tile_view()
+
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer) 
+style_mono_light(base_color = "#23395b")
+```
+
+```{r meta, echo=FALSE}
+meta() %>%
+  meta_general(
+    description = "A thoracic case conference",
+  ) %>% 
+  meta_name("github-repo" = "howardm") %>% 
+  meta_social(
+    title = "Case Conference",
+    url = "https://howardm.github.io/CaseConferenceFebruary22nd2022",
+    image = "http://chestradiologists.org/twitter-card4.jpg",
+    image_alt = "",
+    og_type = "website",
+    og_author = "Howard Mann",
+    twitter_card_type = "summary_large_image",
+    twitter_creator = "@howardm19"
+  )
+```  
+
+
+class: inverse, center, middle
+
+### Thoracic Case Conference
+
+### *Things that grow up with you*
+
+<img src="images/circle-cropped.png" width="150px" />
+
+### .blue[Howard Mann, M.D.]
+
+### Department of Radiology and Imaging Sciences | University of Utah
+
+
+```{r icon-style}
+icon_style(fontawesome("link"), scale = 1, fill = "white")
+```
+howardmann.us
+
+
+.big[February 22nd, 2022]
+
+
+---
+class: center, middle
+
+It takes a while for all the conference CT data to download. Wait a minute or two.
+
+
+![:scale 100%](images/Instructions.jpg)
+
+<!----------------------------- SLIDE BREAK ----------------------------->
+
+---
+
+layout: true
+
+background-image: url(images/circle-cropped.png)
+background-position: 98% 1%
+background-size: 4%
+
+---
+
+class: middle
+
+.bigger[Introduction
+
+Every patient in this Case Conference does not have symptoms directly related to the interesting anatomy.]
+
+
+
+
+
+<!----------------------------- SLIDE BREAK ----------------------------->
+---
+class: inverse
+name: case1
+
+.blue[Case 1]
+
+.panelset[
+
+
+.panel[.panel-name[Imaging]
+
+<br>
+
+.center[![:scale 100%](images/01.jpg)]
+
+] <!--end of panel-->
+
+
+
+] <!--end of panelset-->
+
+<!----------------------------- SLIDE BREAK ----------------------------->
+
+---
+
+class: inverse
+name: case2
+
+.blue[Case 2]
+
+.panelset[
+
+
+.panel[.panel-name[Imaging]
+
+<br>
+
+.center[![:scale 100%](images/02.jpg)]
+
+] <!--end of panel-->
+
+
+
+] <!--end of panelset-->
+
+
+<!----------------------------- SLIDE BREAK ----------------------------->
+
+---
+
+class: inverse
+name: case3
+
+.blue[Case 3]
+
+.panelset[
+
+
+.panel[.panel-name[Imaging I]
+
+
+.center[![:scale 80%](images/03a.jpg)]
+
+] <!--end of panel-->
+
+.panel[.panel-name[Imaging II]
+
+<br>
+
+.center[![:scale 100%](images/03b.jpg)]
+
+] <!--end of panel-->
+
+] <!--end of panelset-->
+
+
+
+<!----------------------------- SLIDE BREAK ----------------------------->
+
+---
+
+class: inverse
+name: case4
+
+.blue[Case 4]
+
+.panelset[
+
+
+.panel[.panel-name[Imaging I]
+
+
+.center[![:scale 70%](images/04a.jpg)]
+
+] <!--end of panel-->
+
+.panel[.panel-name[Imaging II]
+
+<div style="text-align:center;">
+<iframe class="pacsbin"
+         id="case4"
+         src="https://www.pacsbin.com/c/-ylmpOm7kd?s=6211650ea311df5697970ae9&i=6211650ea311df5697970afa&ww=1665&wc=-490&an=false&header=false&notes=false&overlay=false" 
+         style="width: 500px; height: 500px; border: 0;"></iframe>
+</div>
+
+] <!--end of panel-->
+
+] <!--end of panelset-->
+
+
+
+<!----------------------------- SLIDE BREAK ----------------------------->
+
+---
+
+class: inverse
+name: case5
+
+.blue[Case 5]
+
+.panelset[
+
+
+.panel[.panel-name[Imaging I]
+
+
+.center[![:scale 80%](images/05a.jpg)]
+
+] <!--end of panel-->
+
+.panel[.panel-name[Imaging II]
+
+<br>
+
+.center[![:scale 100%](images/05b.jpg)]
+
+] <!--end of panel-->
+
+] <!--end of panelset-->
+
+
+<!----------------------------- SLIDE BREAK ----------------------------->
+
+---
+
+class: inverse
+name: case6
+
+.blue[Case 6]
+
+.panelset[
+
+
+.panel[.panel-name[Imaging]
+
+.pull-left[
+
+Incidental findings in a blunt trauma patient]
+
+.pull-right[
+
+<div style="text-align:center;">
+<iframe class="pacsbin"
+         id="case6"
+         src="https://www.pacsbin.com/c/WkP-eTXQkO?s=62116c5da311df5697970e3b&i=62116c5da311df5697970e72&ww=1500&wc=-500&an=false&header=false&notes=false&overlay=false" 
+         style="width: 500px; height: 500px; border: 0;"></iframe>
+</div>
+]
+
+] <!--end of panel-->
+
+
+
+] <!--end of panelset-->
+
+
+<!----------------------------- SLIDE BREAK ----------------------------->
+
+---
+
+class: inverse
+name: case7
+
+.blue[Case 7]
+
+.panelset[
+
+
+.panel[.panel-name[Imaging I]
+
+
+.center[![:scale 80%](images/07a.jpg)]
+
+] <!--end of panel-->
+
+.panel[.panel-name[Imaging II]
+
+<br>
+
+.center[![:scale 100%](images/07b.jpg)]
+
+] <!--end of panel-->
+
+] <!--end of panelset-->
+
+
+<!----------------------------- SLIDE BREAK ----------------------------->
+
+---
+
+class: inverse
+name: case8
+
+.blue[Case 8]
+
+.panelset[
+
+
+.panel[.panel-name[Imaging I]
+
+
+.center[![:scale 55%](images/08a.jpg)]
+
+] <!--end of panel-->
+
+.panel[.panel-name[Imaging II]
+
+<br>
+
+.center[![:scale 100%](images/08b.jpg)]
+
+] <!--end of panel-->
+
+] <!--end of panelset-->
+
+
+<!----------------------------- SLIDE BREAK ----------------------------->
+
+---
+
+class: inverse
+name: case9
+
+.blue[Case 9]
+
+.panelset[
+
+
+.panel[.panel-name[Imaging I]
+
+
+.center[![:scale 85%](images/09a.jpg)]
+
+] <!--end of panel-->
+
+.panel[.panel-name[Imaging II]
+
+<div style="text-align:center;">
+<iframe class="pacsbin"
+         id="case9"
+         src="https://www.pacsbin.com/c/Zyt2SQVQJO?s=621175c2a311df56979710f1&i=621175c2a311df5697971124&ww=865&wc=145&an=false&header=false&notes=false&overlay=false" 
+         style="width: 500px; height: 500px; border: 0;"></iframe>
+</div>
+
+] <!--end of panel-->
+
+] <!--end of panelset-->
+
+
+<!----------------------------- SLIDE BREAK ----------------------------->
+
+---
+
+class: inverse
+name: case10
+
+.blue[Case 10]
+
+.panelset[
+
+
+.panel[.panel-name[Imaging I]
+
+<br>
+.center[![:scale 90%](images/10a.jpg)]
+
+] <!--end of panel-->
+
+.panel[.panel-name[Imaging II]
+
+.pull-left.w40[Review the lungs and tracheobronchial tree.]
+
+.pull-right.w60[
+
+
+<div style="text-align:center;">
+<iframe class="pacsbin"
+         id="case10"
+         src="https://www.pacsbin.com/c/-JY9SDNX1u?s=62117cbba311df5697971431&i=62117cbba311df5697971432&ww=640&wc=-44&an=false&header=false&notes=false&overlay=false" 
+         style="width: 500px; height: 500px; border: 0;"></iframe>
+</div>
+]
+
+] <!--end of panel-->
+
+] <!--end of panelset-->
+
+
+<!----------------------------- SLIDE BREAK ----------------------------->
+
+---
+
+
+class: inverse
+name: case11
+
+.blue[Case 11]
+
+.panelset[
+
+
+.panel[.panel-name[Imaging I]
+
+<br>
+.center[![:scale 80%](images/11a.jpg)]
+
+] <!--end of panel-->
+
+.panel[.panel-name[Imaging II]
+
+.pull-left.w30[Yes, the patient has pulmonary emboli!
+
+Evaluate the tracheobronchial tree and predict what you might see in the upper abdomen.]
+
+.pull-right.w70[
+
+
+<div style="text-align:center;">
+<iframe class="pacsbin"
+         id="case11"
+         src="https://www.pacsbin.com/c/Zk5q9WHXyd?s=62118d68a311df5697971b19&i=62118d68a311df5697971b6d&ww=763&wc=67&an=false&header=false&notes=false&overlay=false" 
+         style="width: 450px; height: 450px; border: 0;"></iframe>
+</div>
+]
+
+] <!--end of panel-->
+
+] <!--end of panelset-->
+
+<!----------------------------- SLIDE BREAK ----------------------------->
+
+---
+
+class: inverse
+name: case12
+
+.blue[Case 12]
+
+.panelset[
+
+
+.panel[.panel-name[Imaging]
+
+Find (mediastinal and lung display settings) three interesting findings in this case -- two are subtle!
+
+<div style="text-align:center;">
+<iframe class="pacsbin"
+         id="case12"
+         src="https://www.pacsbin.com/c/-yWBocRQkd?s=6212828ba311df569797b924&i=6212828ba311df569797b925&ww=607&wc=71&an=false&header=false&notes=false&overlay=false" 
+         style="width: 450px; height: 450px; border: 0;"></iframe>
+</div>
+
+
+] <!--end of panel-->
+
+
+
+] <!--end of panelset-->
+
+
+<!----------------------------- SLIDE BREAK ----------------------------->
+
+---
+
+class: inverse
+name: case13
+
+.blue[Case 13]
+
+.panelset[
+
+
+.panel[.panel-name[Imaging]
+
+.pull-left[An interesting vascular finding...]
+
+.pull-right[
+
+<div style="text-align:center;">
+<iframe class="pacsbin"
+         id="case13"
+         src="https://www.pacsbin.com/c/b1OhGh0mJ_?s=621284e2a311df569797c46d&i=621284e2a311df569797c46e&ww=1123&wc=179&an=false&header=false&notes=false&overlay=false" 
+         style="width: 525px; height: 525px; border: 0;"></iframe>
+</div>
+
+]
+
+] <!--end of panel-->
+
+
+
+] <!--end of panelset-->
+
+
+<!----------------------------- SLIDE BREAK ----------------------------->
+
+
+---
+
+class: inverse
+name: case14
+
+.blue[Case 14]
+
+.panelset[
+
+
+.panel[.panel-name[Imaging]
+
+.pull-left[Evaluate vessels and airways.]
+
+.pull-right[
+
+
+
+<div style="text-align:center;">
+<iframe class="pacsbin"
+         id="case14"
+         src="https://www.pacsbin.com/c/b1ehURAQkd?s=6212882ca311df569797ca36&i=6212882ca311df569797ca5e&ww=807&wc=169&an=false&header=false&notes=false&overlay=false" 
+         style="width: 500px; height: 500px; border: 0;"></iframe>
+</div>
+
+
+]
+
+] <!--end of panel-->
+
+
+
+] <!--end of panelset-->
+
+
+<!----------------------------- SLIDE BREAK ----------------------------->
+
+---
+
+class: inverse
+name: case15
+
+.blue[Case 15]
+
+.panelset[
+
+
+.panel[.panel-name[Imaging I]
+
+
+.center[![:scale 50%](images/15a.jpg)]
+
+] <!--end of panel-->
+
+.panel[.panel-name[Imaging II]
+
+.pull-left[Don't be distracted by the lung disease!]
+
+.pull-right[
+
+<div style="text-align:center;">
+<iframe class="pacsbin"
+         id="case15"
+         src="https://www.pacsbin.com/c/Zkn_aykNJd?s=62128ab2a311df569797cd04&i=62128ab2a311df569797cd05&ww=1322&wc=256&an=false&header=false&notes=false&overlay=false" 
+         style="width: 500px; height: 500px; border: 0;"></iframe>
+</div>
+
+]
+
+] <!--end of panel-->
+
+] <!--end of panelset-->
+
+
+<!----------------------------- SLIDE BREAK ----------------------------->
+
+
+
+
+
+
+
+```{css echo=FALSE}
+.highlight-last-item > ul > li, 
+.highlight-last-item > ol > li {
+  opacity: 0.2;
+}
+.highlight-last-item > ul > li:last-of-type,
+.highlight-last-item > ol > li:last-of-type {
+  opacity: 1;
+}
+```
