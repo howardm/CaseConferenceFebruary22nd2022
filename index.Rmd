@@ -145,9 +145,23 @@ name: case1
 
 .center[![:scale 100%](images/01.jpg)]
 
+.smallest[Case courtesy of Jeff Kanne, M.D.]
+
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
 
+Imaging findings are those of an extralobar sequestration:
+
+* a systemic artery from the aorta .red[&xrarr;]
+* venous drainage to the hemiazygos vein .blue[&xrarr;]
+* a separate pleural envelope .yellow[&xrarr;]
+
+.center[![:scale 100%](images/01b.jpg)]
+
+
+
+] <!--end of panel-->
 
 ] <!--end of panelset-->
 
@@ -171,7 +185,25 @@ name: case2
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
 
+.pull-left[
+
+.big[A small, blind-ending *cardiac bronchus*.
+
+Sometimes, a small amount of aerated parenchyma is present -- a mini lobe --like in the adjacent case.]
+
+.center[![:scale 60%](images/02b.jpg)]
+
+]
+
+.pull-right[
+
+.center[![:scale 100%](images/02c.jpg)]
+
+]
+
+] <!--end of panel-->
 
 ] <!--end of panelset-->
 
@@ -203,6 +235,35 @@ name: case3
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
+
+.grey[Diagnosis: Mediastinal and intra-pulmonary bronchogenic cysts]
+
+.pull-left[
+
+<br>
+
+.center[![:scale 100%](images/03c.jpg)]
+
+.smallest[Case courtesy of Travis Henry, M.D.]
+
+]
+
+.pull-right[
+
+
+The genesis of bronchogenic cysts is from the abnormal or late budding of the embryonic ventral lung bud or the tracheobronchial tree which occurs between the 26th and 40th days of gestation.
+
+This abnormal bud subsequently differentiates into a fluid-filled, blind-ending pouch. The location of a bronchogenic cyst depends on the embryological stage of development at which the anomaly occurs. When the abnormal budding happens during early development, the cyst occupies the tracheobronchial tree. 
+
+Cysts that arise later are more peripheral and may involve the lung parenchyma.
+
+
+]
+
+] <!--end of panel-->
+
+
 ] <!--end of panelset-->
 
 
@@ -231,9 +292,17 @@ name: case4
 <div style="text-align:center;">
 <iframe class="pacsbin"
          id="case4"
-         src="https://www.pacsbin.com/c/-ylmpOm7kd?s=6211650ea311df5697970ae9&i=6211650ea311df5697970afa&ww=1665&wc=-490&an=false&header=false&notes=false&overlay=false" 
+         src="https://www.pacsbin.com/c/-ylmpOm7kd?s=6211650ea311df5697970ae9&i=6211650ea311df5697970afa&ww=1665&wc=-490&an=false&header=false&notes=false&overlay=false&scale=0.75" 
          style="width: 500px; height: 500px; border: 0;"></iframe>
 </div>
+
+] <!--end of panel-->
+
+.panel[.panel-name[Explanation]
+
+.grey[.big[Diagnosis: A unilobar right lung (sporadic)]]
+
+.smallest[Case courtesy of Jeff Kanne, M.D.]
 
 ] <!--end of panel-->
 
@@ -268,6 +337,18 @@ name: case5
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
+
+Diagnosis: Left lung agenesis with horseshoe right lung: a portion of the lung extends into the left hemithorax.
+
+.center[![:scale 50%](images/05c.jpg)]
+
+A horseshoe lung is often associated with other findings of the *hypogenetic lung syndrome*.
+
+.smallest[Case courtesy of Jeff Kanne, M.D.]
+
+] <!--end of panel-->
+
 ] <!--end of panelset-->
 
 
@@ -294,12 +375,23 @@ Incidental findings in a blunt trauma patient]
 <div style="text-align:center;">
 <iframe class="pacsbin"
          id="case6"
-         src="https://www.pacsbin.com/c/WkP-eTXQkO?s=62116c5da311df5697970e3b&i=62116c5da311df5697970e72&ww=1500&wc=-500&an=false&header=false&notes=false&overlay=false" 
+         src="https://www.pacsbin.com/c/WkP-eTXQkO?s=62116c5da311df5697970e3b&i=62116c5da311df5697970e72&ww=1500&wc=-500&an=false&header=false&notes=false&overlay=false&scale=1.0" 
          style="width: 500px; height: 500px; border: 0;"></iframe>
 </div>
 ]
 
 ] <!--end of panel-->
+
+.panel[.panel-name[Explanation]
+
+.grey[Diagnosis: *wandering pulmonary veins*. The veins connect with one another but drain appropriately into the left atrium.]
+
+
+.center[![:scale 50%](images/06b.jpg)]
+
+
+] <!--end of panel-->
+
 
 
 
@@ -333,6 +425,22 @@ name: case7
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
+
+.grey[Findings:
+
+* bilateral hyparterial bronchi (bilobed lungs)
+* persistent left SVC]
+
+<br>
+
+.center[![:scale 100%](images/07c.jpg)]
+
+
+
+] <!--end of panel-->
+
+
 ] <!--end of panelset-->
 
 
@@ -363,6 +471,19 @@ name: case8
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
+
+.grey[Findings: right paratracheal air cysts (tracheal diverticula). These are usually very small, and this is the typical location. Infection of them is extremely uncommon.]
+
+<br>
+
+.center[![:scale 80%](images/08c.jpg)]
+
+
+
+] <!--end of panel-->
+
+
 ] <!--end of panelset-->
 
 
@@ -390,9 +511,31 @@ name: case9
 <div style="text-align:center;">
 <iframe class="pacsbin"
          id="case9"
-         src="https://www.pacsbin.com/c/Zyt2SQVQJO?s=621175c2a311df56979710f1&i=621175c2a311df5697971124&ww=865&wc=145&an=false&header=false&notes=false&overlay=false" 
+         src="https://www.pacsbin.com/c/Zyt2SQVQJO?s=621175c2a311df56979710f1&i=621175c2a311df5697971124&ww=865&wc=145&an=false&header=false&notes=false&overlay=false&scale=1.0" 
          style="width: 500px; height: 500px; border: 0;"></iframe>
 </div>
+
+] <!--end of panel-->
+
+.panel[.panel-name[Explanation]
+
+.grey[Findings:
+
+* left pulmonary artery arising from the right artery -- *pulmonary artery sling*.
+* complete tracheal cartilage rings with a narrowed trachea.  
+These two findings often occur together.]
+
+.smallest[Case courtesy of Tan Mohammed, M.D.]
+
+.pull-left[
+
+.center[![:scale 60%](images/09c.jpg)]
+]
+
+.pull-right[
+
+.center[![:scale 57%](images/09b.jpg)]
+]
 
 ] <!--end of panel-->
 
@@ -428,12 +571,69 @@ name: case10
 <div style="text-align:center;">
 <iframe class="pacsbin"
          id="case10"
-         src="https://www.pacsbin.com/c/-JY9SDNX1u?s=62117cbba311df5697971431&i=62117cbba311df5697971432&ww=640&wc=-44&an=false&header=false&notes=false&overlay=false" 
+         src="https://www.pacsbin.com/c/-JY9SDNX1u?s=62117cbba311df5697971431&i=62117cbba311df5697971432&ww=640&wc=-44&an=false&header=false&notes=false&overlay=false&scale=0.9" 
          style="width: 500px; height: 500px; border: 0;"></iframe>
 </div>
 ]
 
 ] <!--end of panel-->
+
+.panel[.panel-name[Findings]
+
+.pull-left.w20[
+
+<br>
+
+* cardiac dextroversion
+* bilateral hyparterial bronchi
+* midline liver
+* polysplenia]
+
+.pull-right.w80[
+
+<br>
+.center[![:scale 100%](images/10c.jpg)]
+
+.smallest[Case courtesy of Jeff Kanne, M.D.]
+
+
+]
+
+
+] <!--end of panel-->
+
+
+.panel[.panel-name[Explanation]
+
+.pull-left[
+
+.small[Bronchial situs is one aspect of visceroatrial situs, which refers to the position of the cardiac atria, lungs, liver, stomach, and spleen relative to the midline.
+
+*Situs solitus* corresponds to the usual arrangement of these organs, whereas *situs inversus* is the mirror image arrangement, and *situs ambiguus* (or heterotaxy) includes other arrangements that cannot be categorized as either situs solitus or situs inversus. 
+
+Among types of situs ambiguus, right isomerism describes a bilateral right-sidedness and left isomerism describes a bilateral left-sidedness. 
+
+*Right isomerism* is typically associated with right bronchial isomerism, bilateral right morphologic atria, asplenia, midline liver, and variably located stomach. 
+
+*Left isomerism* is usually associated with left bronchial isomerism, bilateral left morphologic atria, polysplenia, midline liver, and variably located stomach. 
+
+However, these features are variably associated, and bronchial situs does not always correlate with atrial and abdominal situs.]
+
+
+]
+
+
+.pull-right[
+
+.center[![:scale 70%](images/10b.jpg)]
+
+.small[The atria maintain their laterality throughout development; hence, they define the cardiac situs. Neither atrial nor tracheobronchial tree morphology is a reliable marker of the position of the ventricles, the cardiac apex, or the great arteries which must be identified and reported separately.]
+
+
+]
+
+] <!--end of panel-->
+
 
 ] <!--end of panelset-->
 
@@ -470,14 +670,54 @@ Evaluate the tracheobronchial tree and predict what you might see in the upper a
 <div style="text-align:center;">
 <iframe class="pacsbin"
          id="case11"
-         src="https://www.pacsbin.com/c/Zk5q9WHXyd?s=62118d68a311df5697971b19&i=62118d68a311df5697971b6d&ww=763&wc=67&an=false&header=false&notes=false&overlay=false" 
+         src="https://www.pacsbin.com/c/Zk5q9WHXyd?s=62118d68a311df5697971b19&i=62118d68a311df5697971b6d&ww=763&wc=67&an=false&header=false&notes=false&overlay=false&scale=0.4" 
          style="width: 450px; height: 450px; border: 0;"></iframe>
 </div>
 ]
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
+
+
+.pull-left[
+
+.center[![:scale 50%](images/11e.jpg)]
+
+.center[![:scale 50%](images/11f.jpg)]
+
+]
+
+.pull-right[
+
+
+.center[![:scale 90%](images/11c.jpg)]
+
+.center[Azygos continuation of the IVC may occur.]
+
+]
+
+
+] <!--end of panel-->
+
+.panel[.panel-name[Review Article]
+
+
+Here is a nice review article on this topic from which the summary graphic is taken:  
+
+<br>
+
+.content-box-blue[
+
+https://howardm.github.io/CaseConferenceFebruary22nd2022/assets/TracheobronchialSitus.pdf]
+
+
+
+] <!--end of panel-->
+
 ] <!--end of panelset-->
+
+
 
 <!----------------------------- SLIDE BREAK ----------------------------->
 
@@ -498,14 +738,26 @@ Find (mediastinal and lung display settings) three interesting findings in this 
 <div style="text-align:center;">
 <iframe class="pacsbin"
          id="case12"
-         src="https://www.pacsbin.com/c/-yWBocRQkd?s=6212828ba311df569797b924&i=6212828ba311df569797b925&ww=607&wc=71&an=false&header=false&notes=false&overlay=false" 
+         src="https://www.pacsbin.com/c/-yWBocRQkd?s=6212828ba311df569797b924&i=6212828ba311df569797b925&ww=607&wc=71&an=false&header=false&notes=false&overlay=false&scale=0.7" 
          style="width: 450px; height: 450px; border: 0;"></iframe>
 </div>
 
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
 
+Findings: 
+
+* a tracheal bronchus
+* a *right top pulmonary vein* (follow it from the right upper lobe to enter the superior left atrium)
+* an azygos fissure
+
+.center[![:scale 80%](images/12a.jpg)]
+
+.smallest[Case courtesy of Travis Henry, M.D.]
+
+] <!--end of panel-->
 
 ] <!--end of panelset-->
 
@@ -539,6 +791,16 @@ name: case13
 
 ] <!--end of panel-->
 
+
+.panel[.panel-name[Explanation]
+
+.grey[Finding: a single, common left pulmonary vein that drains into the posterior left atrium in the midline]
+
+
+.center[![:scale 35%](images/13a.jpg)]
+
+
+] <!--end of panel-->
 
 
 ] <!--end of panelset-->
@@ -577,6 +839,22 @@ name: case14
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
+
+.pull-left[
+
+.grey[Findings:
+
+* bi-lobed lungs
+* drainage of a right pulmonary vein into the supra-hepatic IVC (scimitar sign)
+
+Although a systemic artery supplying the right lung is not present, this has the other features of the *hypogenetic lung syndrome*]]
+
+.pull-right[
+
+.center[![:scale 100%](images/14a.jpg)]]
+
+] <!--end of panel-->
 
 
 ] <!--end of panelset-->
@@ -618,14 +896,37 @@ name: case15
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
+
+.grey[Diagnosis: Another case of *wandering pulmonary veins*]
+
+.center[![:scale 50%](images/15b.jpg)]
+
+] <!--end of panel-->
+
+
 ] <!--end of panelset-->
 
 
 <!----------------------------- SLIDE BREAK ----------------------------->
+---
+
+
+class: center, middle
+
+.big[A Conference Summary and Rule:
+
+<br>
+
+.content-box-blue[Vascular and airway anomalies very often occur together -- Kanne's Rule]
+
+<br>
+
+Look for them!]
 
 
 
-
+<!----------------------------- SLIDE BREAK ----------------------------->
 
 
 
