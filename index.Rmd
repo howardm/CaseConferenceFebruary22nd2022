@@ -96,7 +96,7 @@ icon_style(fontawesome("link"), scale = 1, fill = "white")
 howardmann.us
 
 
-.big[February 22nd, 2022]
+.big[September 26th, 2023]
 
 
 ---
