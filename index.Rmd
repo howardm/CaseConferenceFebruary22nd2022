@@ -454,29 +454,7 @@ name: case10
 
 ] <!--end of panel-->
 
-.panel[.panel-name[Findings]
 
-.pull-left.w20[
-
-<br>
-
-* cardiac dextroversion
-* bilateral hyparterial bronchi
-* midline liver
-* polysplenia]
-
-.pull-right.w80[
-
-<br>
-.center[![:scale 100%](images/10c.jpg)]
-
-.smallest[Case courtesy of Jeff Kanne, M.D.]
-
-
-]
-
-
-] <!--end of panel-->
 
 
 
